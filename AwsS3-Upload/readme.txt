@@ -21,6 +21,7 @@ now the way to use it:
 D:\\filename or
 C:\\
 
-if you are using linux systems it would be /yourpath/yourfile
+if you are using linux systems it would be like /yourpath/yourfile
 
+example:
 java -jar AwsS3-Upload-0.0.1-SNAPSHOT-jar-with-dependencies.jar backupsdbmedics/db3 D:\\zpl-zbi2-pm-en-PROGRAMING_GUIDE_ZM400.pdf
